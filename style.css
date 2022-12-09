@@ -1,0 +1,18 @@
+.paragraph{
+    color: brown;
+}
+.list{
+    background-color: green;
+    border: 1px solid black;
+    padding: 7px;
+    list-style: none;
+}
+.listItem{
+    color: rgb(161, 154, 151);
+}
+.list li:last-child{
+    color: red;
+}
+.list li:nth-child(1){
+    color: aquamarine;
+}
