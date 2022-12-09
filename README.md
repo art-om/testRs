@@ -1,4 +1,4 @@
 # rschool
 new Text
-Hello World
-@#r
+fghw wrths sh
+# fix 2
